@@ -1,0 +1,37 @@
+.login-container {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  height: 100%;
+}
+
+.login-container:before {
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #3f51b5;
+  content: "";
+  z-index: 0;
+}
+
+.username-page-container {
+  background: #fff;
+  box-shadow: 0 1px 11px rgba(0, 0, 0, 0.27);
+  border-radius: 2px;
+  width: 100%;
+  max-width: 400px;
+  display: inline-block;
+  margin-top: 42px;
+  vertical-align: middle;
+  position: relative;
+  padding: 35px 55px 35px;
+  min-height: 250px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  margin-top: -160px;
+}

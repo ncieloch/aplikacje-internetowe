@@ -1,0 +1,21 @@
+.table-container {
+  width: 100%;
+}
+
+.card-container {
+  width: 96%;
+}
+
+.mat-form-field {
+  width: 100%;
+}
+
+.table-row:hover {
+  background-color: #e0e0e0;
+  transition: background-color .2s;
+  cursor: pointer;
+}
+
+.odd-row {
+  background-color: #f4f4f4;
+}

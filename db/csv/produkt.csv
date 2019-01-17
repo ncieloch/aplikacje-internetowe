@@ -1,0 +1,217 @@
+id_produkt,id_marka,id_dzial,nazwa_produktu,cena_produktu
+1011111,11110,13,Nescaf� Classic,16.89
+1011112,11110,13,Nescaf� 3w1,19.65
+1011113,11110,13,Nescaf� 2w1,15.17
+1011114,11110,13,Nescaf� Cappucino,15.44
+1011115,11110,13,Nescaf� Xpress,17.6
+1011116,11110,13,Nescaf� Espiro,19.44
+1011117,11110,13,Nescaf� Gold,16.88
+1011118,11110,13,Nescaf� Collection,19.5
+1011119,11110,13,Nescaf� Decaf,19.56
+1011120,11111,6,Je�yki Classic,4.99
+1011121,11111,6,Je�yki Kokos,5.19
+1011122,11111,6,Je�yki Adwokat,5.19
+1011123,11111,6,Mella Wi�nia,6.79
+1011124,11111,6,Mella Pomara�cza,6.79
+1011125,11111,6,Mella Porzeczka,6.79
+1011126,11111,6,Mella Cytrynowa,6.79
+1011127,11111,6,Grze�ki Kakaowe w czekoladzie,1.05
+1011128,11111,6,Grze�ki Toffi,1.5
+1011129,11111,6,Grze�ki Orzechowe,1.1
+1011130,11112,6,Nestle Aero Mleczny,1.43
+1011131,11113,6,Princessa Kokosowa,1.05
+1011132,11113,6,Princessa Orzechowa,1.05
+1011133,11113,6,Princessa Mleczna,1.5
+1011134,11113,6,Princessa Zebra,0.99
+1011135,11114,6,Kitkat Chunky,1.39
+1011136,11114,6,Kitkat Chunky White,1.39
+1011137,11114,6,Kitkat Baton 4 paluszki,2
+1011138,11115,6,Lion Classic,1.59
+1011139,11115,6,Lion White,1.59
+1011140,11116,6,JoJo Zakr�cone,2.49
+1011141,11116,6,JoJo Marshmallow,2.49
+1011142,11118,9,Na��czowianka Woda Niegazowana 1.5 L,1.99
+1011143,11118,9,Na��czowianka Woda Niegazowana 500 ML,1.85
+1011144,11118,9,Na��czowianka Woda Gazowana 1.5 L,1.85
+1011145,11118,9,Na��czowianka Woda Gazowana 500 ML,1.59
+1011146,11118,9,Na��czowianka Woda Niegazowana 750 ML,2.29
+1011147,11120,8,Dar Natury Olej z pestek dyni,17.68
+1011148,11120,8,Dar Natury Olej z nasion konopii,13.48
+1011149,11126,6,Zielona Budka Lody Truskawkowe 1000 ML,13.99
+1011150,11126,6,Zielona Budka Lody Mi�towe 1000 ML,13.99
+1011151,11126,6,Zielona Budka Lody Owoce Le�ne 1000 ML,13.99
+1011152,11126,6,Zielona Budka Lody Karmel z sol� 1000 ML,13.99
+1011153,11126,6,Zielona Budka Lody Pistacjowe 1000 ML,13.99
+1011154,11122,8,Winiary Majonez Dekoracyjny 400 ML,4.3
+1011155,11122,8,Winiary Majonez Dekoracyjny 700 ML,8.99
+1011156,11122,8,Winiary Majonez Dekoracyjny 250 ML,4.09
+1011157,11122,7,Winiary Bulion drobiowy z zielem angielskim i li�ciem laurowym 120 g (12 sztuk),3.19
+1011158,11122,7,Winiary Galaretka malinowy smak 71 g,1.59
+1011159,11122,7,Winiary Sos pieczeniowy ciemny 30 g,1.43
+1011160,11122,7,Winiary Nasza specjalno�� Barszcz bia�y 66 g,1.61
+1011161,11122,7,Winiary Galaretka jagodowy smak 47 g,1.59
+1011162,11122,7,Winiary Galaretka truskawkowy smak 71 g,1.59
+1011163,11122,7,Winiary Bulion warzywny 60 g (6 sztuk),1.79
+1011164,11122,7,Winiary Kisiel z cukrem malinowy smak 77 g,1.19
+1011165,11122,7,Winiary Nasza specjalno�� �urek 49 g,1.61
+1011166,11122,7,Winiary Kisiel z cukrem truskawkowy smak 77 g,1.19
+1011167,11122,7,Winiary Galaretka cytrynowy smak 71 g,1.59
+1011168,11122,7,Winiary Galaretka brzoskwiniowy smak 71 g,1.59
+1011169,11122,7,Winiary Sos pieczeniowy jasny 27 g,1.43
+1011170,11122,7,Winiary Barszcz czerwony instant 170 g,4.69
+1011171,11122,8,Winiary Majonez lekki 250 ml,3.99
+1011172,11122,7,Winiary Sos pomidorowy 33 g,1.43
+1011173,11122,7,Winiary Budy� z cukrem smak czekoladowy 63 g,1.19
+1011174,11122,7,Winiary Kisiel z cukrem �urawinowy smak 77 g,1.19
+1011175,11122,7,Winiary Sosy do makaronu Italia Sos neapolita�ski �agodny z oregano i tymiankiem 48 g,2.5
+1011176,11122,7,Winiary Sos pieczarkowy 30 g,1.43
+1011177,11122,7,Winiary Pomys� na... Soczyst� pier� kurczaka w zio�ach prowansalskich 23.4 g,2.99
+1011178,11122,7,Winiary Pomys� na... Soczyst� pier� kurczaka z papryk� 23.2 g,2.99
+1011179,11122,7,Winiary Budy� z cukrem smak �mietankowy 60 g,1.19
+1011180,11124,18,Purina One Junior 800 g,13.69
+1011181,11124,18,Purina One Sterilcat 800 g,13.69
+1011182,11124,18,Purina One Indoor Formula 800 g,13.69
+1011183,11124,18,Purina One Coat & Hairball 800 g,13.69
+1011184,11124,18,Purina One Dual Nature 750 g,13.69
+1011185,11125,7,Maggi Przyprawa w p�ynie 200 g,2.19
+1011186,11125,7,Maggi Przyprawa w p�ynie 960 g,8.99
+1011187,11125,7,Maggi Sos sojowy 190 ml,4.99
+1011188,11127,19,Nestl� Corn Flakes P�atki kukurydziane 600 g,6.99
+1011189,11127,19,Nestl� Corn Flakes P�atki �niadaniowe 250 g,3.79
+1011190,11127,19,Nestl� Corn Flakes Mi�d i orzeszki P�atki �niadaniowe z miodem i orzeszkami 450 g,7.99
+1011191,11127,19,Nestl� Corn Flakes Choco P�atki �niadaniowe o smaku czekoladowym 450 g,7.99
+1011192,11128,19,Nestl� Nesquik P�atki �niadaniowe 500 g,8.49
+1011193,11128,6,Nesquik Opti-Start Rozpuszczalny nap�j kakaowy z dodatkiem witamin i sk�adnik�w mineralnych 400 g,11.99
+1011194,11128,6,Nestl� Nesquik Batonik zbo�owy 25 g,0.99
+1011195,11128,6,Nestl� Nesquik Delice Batonik zbo�owy 23 g,0.99
+1011196,11128,19,Nestl� Nesquik P�atki �niadaniowe 250 g,5.19
+1011197,11128,19,Nestl� Nesquik P�atki �niadaniowe granola 300 g,7.99
+1011198,11129,19,Nestl� Chocapic P�atki �niadaniowe 500 g,8.49
+1011199,11129,19,Nestl� Chocapic P�atki �niadaniowe 250 g,5.19
+1011200,11129,6,Nestl� Chocapic Batonik zbo�owy 25 g,0.99
+1011201,11130,19,Nestl� Cini Minis P�atki �niadaniowe 500 g,8.49
+1011202,11130,19,Nestl� Cini Minis P�atki �niadaniowe 250 g,5.19
+1011203,11130,19,Nestl� Cini Minis P�atki �niadaniowe granola 320 g,7.99
+1011204,11130,6,Nestl� Cini Minis Batonik zbo�owy 25 g,0.99
+1011205,11131,19,Nestl� Cheerios Miodowy P�atki �niadaniowe 500 g,8.49
+1011206,11132,19,Nestl� Cookie Crisp P�atki �niadaniowe 500 g,8.49
+1011207,11133,9,Pepsi Cola Nap�j gazowany 2 l,4.55
+1011208,11133,9,Pepsi Bez Kalorii Nap�j gazowany 2 l,4.55
+1011209,11133,9,Pepsi Cola Nap�j gazowany 1 l,3.79
+1011210,11133,9,Pepsi Cola Nap�j gazowany 330 ml,1.99
+1011211,11133,9,Pepsi Bez Kalorii Nap�j gazowany 330 ml,1.99
+1011212,11133,9,Pepsi Bez Kalorii Nap�j gazowany 0.5 l,2.69
+1011213,11133,9,Pepsi Cola Nap�j gazowany 0.5 l,2.69
+1011214,11133,9,Pepsi Bez Kalorii Nap�j gazowany 1 l,3.79
+1011215,11134,9,Mirinda Red Orange Nap�j gazowany 2 l,4.55
+1011216,11134,9,Mirinda Mandarine Nap�j gazowany 2 l,4.55
+1011217,11134,9,Mirinda Orange Nap�j gazowany 0.5 l,2.69
+1011218,11134,9,Mirinda Orange Nap�j gazowany 330 ml,1.99
+1011219,11135,9,7UP Nap�j gazowany 2 l,4.55
+1011220,11135,9,7UP Nap�j gazowany 330 ml,1.99
+1011221,11135,9,7UP Lemon Nap�j gazowany smak cytrynowy 1 l,4.39
+1011222,11135,9,7UP Nap�j gazowany 0.5 l,2.69
+1011223,11136,9,Mountain Dew Nap�j gazowany 330 ml,1.99
+1011224,11136,9,Mountain Dew Nap�j gazowany 2 l,4.55
+1011225,11136,9,Mountain Dew Nap�j gazowany 500 ml,2.69
+1011226,11136,9,Mountain Dew Nap�j gazowany 1 l,3.79
+1011227,11142,5,Lay's o smaku Papryka Chipsy ziemniaczane 240 g,5.39
+1011228,11142,5,Lay's o smaku Zielona Cebulka Chipsy ziemniaczane 240 g,5.39
+1011229,11142,5,Lay's Solone Chipsy ziemniaczane 240 g,5.39
+1011230,11142,5,Lay's o smaku Fromage Chipsy ziemniaczane 240 g,5.39
+1011231,11142,5,Lay's o smaku Zielona cebulka Chipsy ziemniaczane 150 g,4.19
+1011232,11142,5,Lay's Naturalne solone Chipsy ziemniaczane 150 g,4.19
+1011233,11142,5,Lay's o smaku Papryka Chipsy ziemniaczane 150 g,4.19
+1011234,11142,5,Lay's o smaku Fromage Chipsy ziemniaczane 150 g,4.19
+1011235,11142,5,Lay's z Pieca Pieczone chipsy Grillowana Papryka 200 g,5.69
+1011236,11142,5,Lay's z Pieca Pieczone chipsy Solone 200 g,5.69
+1011237,11142,5,Lay's Strong Pikantne chipsy karbowane o smaku ostre chilli 150 g,4.19
+1011238,11142,5,Lay's Pikantna Papryka Chipsy ziemniaczane 225 g,5.99
+1011239,11143,5,Cheetos Chrupki kukurydziane o smaku ketchupowym 165 g,2.69
+1011240,11143,5,Cheetos Chrupki kukurydziane o smaku serowo-ketchupowym 145 g,2.89
+1011241,11143,5,Cheetos Chrupki kukurydziane o smaku pizzy 170 g,3.19
+1011242,11143,5,Cheetos Chrupki kukurydziane orzechowe 170 g,3.19
+1011243,11143,5,Cheetos Cheese Chrupki kukurydziane o smaku sera 85 g,2.19
+1011244,11143,5,Cheetos Spirals Chrupki kukurydziane o smaku serowo-ketchupowym 80 g,1.99
+1011245,11143,5,Cheetos Mix-Ups Mega Fun Flavours Mieszanka chrupek kukurydzianych 70 g,2.39
+1011246,11146,5,Sunbites Wielozbo�owe krakersy papryka z zio�ami 100 g,4.39
+1011247,11146,5,Sunbites Wielozbo�owe krakersy pomidor z bazyli� 100 g,3.49
+1011248,11146,5,Sunbites Wielozbo�owe krakersy wiosenne warzywa 100 g,3.49
+1011249,11149,12,Danone Activia Naturalna Jogurt 180 g,1.99
+1011250,11149,12,Danone Activia Jogurt malina-granat 300 g,3.19
+1011251,11149,12,Danone Activia Jogurt truskawka-kiwi 195 g,1.89
+1011252,11149,12,Danone Activia Jogurt jagoda-bor�wka ameryka�ska 195 g,1.89
+1011253,11149,12,Danone Activia Jogurt truskawka-kiwi 300 g,3.19
+1011254,11149,12,Danone Activia Jogurt truskawka-poziomka 195 g,1.89
+1011255,11149,12,Danone Activia Jogurt brzoskwinia-mango 300 g,3.19
+1011256,11149,12,Danone Activia Jogurt jagoda-bor�wka ameryka�ska 300 g,3.19
+1011257,11149,12,Danone Activia Jogurt malina 300 g,3.19
+1011258,11149,12,Danone Activia Jogurt truskawka owoce le�ne 300 g,3.19
+1011259,11149,12,Danone Activia Jogurt truskawka 480 g (4 x 120 g),5.69
+1011260,11150,12,Danone Actimel Truskawka Mleko Fermentowane 800 g (8 sztuk),9.99
+1011261,11150,12,Danone Actimel Klasyczny Mleko Fermentowane 800 g (8 sztuk),9.99
+1011262,11150,12,Danone Actimel Malina Mleko Fermentowane 800 g (8 sztuk),9.99
+1011263,11150,12,Danone Actimel Wieloowocowy Mleko Fermentowane 800 g (8 sztuk),9.99
+1011264,11151,17,Alpro Nap�j sojowy oryginalny 1 l,7.99
+1011265,11151,17,Alpro Nap�j sojowy nies�odzony 1 L,7.99
+1011266,11151,17,Alpro Nap�j sojowy o smaku waniliowym 1 l,9.99
+1011267,11151,17,Alpro Nap�j migda�owy oryginalny 1 l,11.99
+1011268,11151,17,Alpro Nap�j kokosowy z dodatkiem ry�u 1 l,11.99
+1011269,11151,17,Alpro Nap�j ry�owy dolce o smaku waniliowym 1 l,9.99
+1011270,11154,12,Danone Danio Serek homogenizowany o smaku waniliowym 560 g (4 sztuki),5.29
+1011271,11154,12,Danone Danio Serek homogenizowany o smaku waniliowym 140 g,1.49
+1011272,11154,12,Danone Danio Serek homogenizowany jagodowy 140 g,1.49
+1011273,11154,12,Danone Danio Serek homogenizowany brzoskwiniowy 140 g,1.49
+1011274,11154,12,Danone Danio Extra Serek homogenizowany z czekolad� 130 g,1.99
+1011275,11154,12,Danone Danio Bia�e Serek homogenizowany o smaku �mietankowym 560 g (4 sztuki),5.29
+1011276,11154,12,Danone Danio Serek homogenizowany o smaku waniliowym 140 g,2.49
+1011277,11154,12,Danone Danio Extra Serek homogenizowany z czekolad� 520 g (4 sztuki),6.59
+1011278,11159,18,Pedigree Rodeo Karma uzupe�niaj�ca smakowite spr�ynki do �ucia z wo�owin� 122 g (7 sztuk),2.89
+1011279,11159,18,Pedigree Biscrok Original Karma uzupe�niaj�ca 3 pyszne smaki 200 g,3.29
+1011280,11159,18,Pedigree Vital Protection Psy doros�e Karma pe�noporcjowa z wo�owin� & drobiem 2.6 kg,19.19
+1011281,11159,18,Pedigree Markies z ko�ci� szpikow� Karma uzupe�niaj�ca 150 g,3.09
+1011282,11159,18,Pedigree Karma pe�noporcjowa 1600 g (4 x 400 g),18.99
+1011283,11159,18,Pedigree z wo�owin� w galaretce Karma pe�noporcjowa 400 g,4.79
+1011284,11159,18,Pedigree Vital Protection Karma pe�noporcjowa w sosie 400 g (4 x 100 g),5.79
+1011285,11159,18,Pedigree DentaStix 10-25 kg Karma uzupe�niaj�ca 180 g,7.19
+1011286,11159,18,Pedigree z kurczakiem i marchewk� w galaretce Karma pe�noporcjowa 400 g,4.79
+1011287,11159,18,Pedigree Vital Protection w sosie Karma pe�noporcjowa 1.2 kg (12 saszetek),16.49
+1011288,11159,18,Pedigree DentaStix 25 kg+ Karma uzupe�niaj�ca 1080 g (4 x 270 g),29.99
+1011289,11159,18,Pedigree DentaStix 5-10 kg Karma uzupe�niaj�ca 110 g (7 sztuk),5.39
+1011290,11160,18,Whiskas 1+ lat Karma pe�noporcjowa smaki drobiowe w galaretce 1.2 kg (12 x 100 g),14.79
+1011291,11160,18,Whiskas 1+ lat Karma pe�noporcjowa z indykiem w galaretce 400 g,4.39
+1011292,11160,18,Whiskas 1+ lat Karma pe�noporcjowa smaki tradycyjne w sosie 1.2 kg (12 x 100 g),14.79
+1011293,11160,18,Whiskas 1+ lat Karma pe�noporcjowa z kaczk� w galaretce 400 g,4.39
+1011294,11160,18,Whiskas 1+ lat Karma pe�noporcjowa z wo�owin� w sosie 400 g,4.39
+1011295,11160,18,Whiskas 1+ lat Karma pe�noporcjowa z tu�czykiem w galaretce 400 g,4.39
+1011296,11170,6,Orbit Spearmint XXL Guma do �ucia bez cukru 58 g (42 dra�etki),4.99
+1011297,11170,6,Orbit Spearmint Guma do �ucia bez cukru 35 g (25 dra�etek),3.49
+1011298,11170,6,Orbit White Freshmint Guma do �ucia bez cukru 35 g (25 dra�etek),3.49
+1011299,11170,6,Orbit Peppermint Guma do �ucia bez cukru 35 g (25 dra�etek),3.49
+1011300,11170,6,Orbit For Kids Classic Guma do �ucia bez cukru 39 g (15 listk�w),3.49
+1011301,11195,8,Rama Classic Margaryna 450 g,3.69
+1011302,11195,8,Rama Classic Margaryna 1 kg,8
+1011303,11195,8,Rama Buttery Margaryna 450 g,3.69
+1011304,11195,8,Rama Sma� jak szef kuchni ma�lany smak Z mixem olej�w 500 ml,6.79
+1011305,11195,8,Rama Margaryna 100% ro�linna 450 g,3.69
+1011306,11195,8,Rama Olivio Margaryna 400 g,5.49
+1011307,11196,2,Cif Cream Lemon z mikrokryszta�kami Mleczko do czyszczenia powierzchni 780 g,6.99
+1011308,11196,2,Cif UltraSzybki �azienka Spray 500 ml,7.19
+1011309,11196,2,Cif UltraSzybki Kuchnia Spray 500 ml,7.19
+1011310,11196,2,Cif Power & Shine Spray przeciw kamieniowi 750 ml,12.79
+1011311,11196,2,Cif Brilliance Ocean Uniwersalny p�yn do czyszczenia 1 l,7.19
+1011312,11196,2,Cif Brilliance Pink Orchid Uniwersalny p�yn do czyszczenia 1 l,7.19
+1011313,11197,2,Coccolino Blue Splash P�yn do p�ukania tkanin koncentrat 1800 ml (72 prania),10.44
+1011314,11197,2,Coccolino Intense Floral Elixir P�yn do p�ukania tkanin 960 ml (64 prania),10.99
+1011315,11197,2,Coccolino Intense Fresh Sky P�yn do p�ukania tkanin 960 ml (64 prania),11.54
+1011316,11197,2,Coccolino Jasmine P�yn do p�ukania tkanin koncentrat 1680 ml (67 pra�),10.99
+1011317,11197,2,Coccolino Intense Sunburst P�yn do p�ukania tkanin 960 ml (64 prania),11.54
+1011318,11198,2,Domestos Przed�u�ona Moc Pine Fresh P�yn czyszcz�co-dezynfekuj�cy 1250 ml,9.99
+1011319,11198,2,Domestos Przed�u�ona Moc Citrus Fresh P�yn czyszcz�co-dezynfekuj�cy 1250 ml,9.99
+1011320,11198,2,Domestos Zero Kamienia �el do toalet Blue 750 ml,12.99
+1011321,11198,2,Domestos Przed�u�ona Moc Citrus Fresh P�yn czyszcz�co-dezynfekuj�cy 750 ml,7.99
+1011322,11198,2,Domestos Przed�u�ona Moc Pine Fresh P�yn czyszcz�co-dezynfekuj�cy 750 ml,7.99
+1011323,11199,2,Persil Color Proszek do prania 1.3 kg (20 pra�),18.99
+1011324,11199,2,Persil Color Lavender Freshness P�ynny �rodek do prania 2.50 l (50 pra�),27.99
+1011325,11199,2,Persil Color Lavender Freshness P�ynny �rodek do prania 3.50 l (70 pra�),51.99
+1011326,11199,2,Persil Color Lavender Freshness Proszek do prania 3.25 kg (50 pra�),24.99

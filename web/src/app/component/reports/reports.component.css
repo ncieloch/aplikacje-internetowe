@@ -1,0 +1,14 @@
+.card-container {
+  width: 95%;
+  height: 82vh;
+  margin-bottom: 10px;
+}
+
+canvas {
+  height: 97% !important;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: bold;
+}

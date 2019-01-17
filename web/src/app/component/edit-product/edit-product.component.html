@@ -1,0 +1,63 @@
+<div fxLayout="row" fxLayoutAlign="center center">
+  <mat-card class="card-container">
+    <div class="form-container">
+      <span class="title-label">Edytuj produkt</span>
+
+      <form class="full-width mr-top--10" (ngSubmit)="isFormValid() && update()">
+
+        <mat-form-field class="full-width" *ngIf="product">
+          <input matInput placeholder="Identyfikator produktu" [formControl]="idProductFormControl"
+                 [errorStateMatcher]="matcher" [(ngModel)]="product.idProduct">
+          <mat-error *ngIf="idProductFormControl.hasError('required')">
+            Identyfikator jest <strong>wymagany</strong>
+          </mat-error>
+          <mat-error *ngIf="idProductFormControl.hasError('pattern') && !idProductFormControl.hasError('required')">
+            Identyfikator może zawierać tylko cyfry
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="full-width" *ngIf="product">
+          <input matInput placeholder="Nazwa produktu" [formControl]="productNameFormControl"
+                 [errorStateMatcher]="matcher" [(ngModel)]="product.productName">
+          <mat-error *ngIf="productNameFormControl.hasError('required')">
+            Identyfikator jest <strong>wymagany</strong>
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="full-width" *ngIf="product">
+          <input matInput placeholder="Cena produktu" [formControl]="productPriceFormControl"
+                 [errorStateMatcher]="matcher" [(ngModel)]="product.productPrice">
+          <mat-error *ngIf="productPriceFormControl.hasError('required')">
+            Identyfikator jest <strong>wymagany</strong>
+          </mat-error>
+          <mat-error *ngIf="productPriceFormControl.hasError('pattern') && !productPriceFormControl.hasError('required')">
+            Identyfikator może zawierać tylko cyfry
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="full-width" *ngIf="product">
+          <mat-select [(value)]="product.brand.brandName" (selectionChange)="onBrandChange($event.value)">
+            <mat-option *ngFor="let brand of brands" value="{{brand.brandName}}">
+              {{brand.brandName}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field class="full-width" *ngIf="product">
+          <mat-select [(value)]="product.section.sectionName" (selectionChange)="onSectionChange($event.value)">
+            <mat-option *ngFor="let section of sections" value="{{section.sectionName}}">
+              {{section.sectionName}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <div fxLayout="row" fxLayoutAlign="end center">
+          <button type="submit" mat-raised-button color="primary">Zatwierdź</button>
+          <button class="cncl-btn" type="button" mat-raised-button color="accent" (click)="back()">Anuluj</button>
+        </div>
+
+      </form>
+
+    </div>
+  </mat-card>
+</div>

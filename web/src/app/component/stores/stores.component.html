@@ -1,0 +1,33 @@
+<div fxLayout="row" fxLayoutAlign="space-around center">
+
+  <mat-card id="gmap-container" class="map-card-container">
+    <agm-map [latitude]="lat" [longitude]="lng">
+      <agm-marker *ngFor="let store of dataSource?.filteredData;" [latitude]="store.xpos" [longitude]="store.ypos"></agm-marker>
+    </agm-map>
+  </mat-card>
+
+  <mat-card id="stores-list-container" class="card-container">
+    <mat-form-field>
+      <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filtruj wyniki">
+    </mat-form-field>
+
+    <table mat-table [dataSource]="dataSource" class="table-container">
+
+      <ng-container matColumnDef="id">
+        <th mat-header-cell *matHeaderCellDef> Identyfikator</th>
+        <td mat-cell *matCellDef="let store"> {{store.idStore}}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="address">
+        <th mat-header-cell *matHeaderCellDef> Adres</th>
+        <td mat-cell *matCellDef="let store"> {{store.storeAddress}}</td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
+      <tr mat-row *matRowDef="let row; let even = even; columns: displayedColumns;"
+          class="table-row" [ngClass]="{'odd-row': even}" (click)="chooseStore(row)"></tr>
+    </table>
+
+    <mat-paginator [pageSizeOptions]="[9]"></mat-paginator>
+  </mat-card>
+</div>

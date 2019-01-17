@@ -1,0 +1,101 @@
+id_pracownik,imie_pracownika,nazwisko_pracownika,email,numer_telefonu,stanowisko
+10232176,Paulina, Sobczak, Sobczak.P@sklep.pl,+48645105656,Kasjer
+10885631,Henryk, B�k, B�k.H@sklep.pl,+48563429025,Kasjer
+11539086,Kazimierz, G�rski, G�rski.K@sklep.pl,+48726910147,Kasjer
+12192541,Irena, W�jcik, W�jcik.I@sklep.pl,+48678292329,Kasjer
+12845996,Marian, Chmielewski, Chmielewski.M@sklep.pl,+48623223156,Kasjer
+13499451,Ma�gorzata, Jaworska, Jaworska.M@sklep.pl,+48508682132,Kasjer
+14152906,Ewa, Duda, Duda.E@sklep.pl,+48583913874,Kasjer
+14806361,Jakub, Malinowski, Malinowski.J@sklep.pl,+48555208436,Kasjer
+15459816,Jadwiga, Brzezi�ska, Brzezi�ska.J@sklep.pl,+48621628112,Kasjer
+16113271,Roman, Sawicki, Sawicki.R@sklep.pl,+48641663839,Kasjer
+16766726,Marcin, Szymczak, Szymczak.M@sklep.pl,+48755352669,Kasjer
+17420181,Joanna, Baranowska, Baranowska.J@sklep.pl,+48517403786,Kasjer
+18073636,Maciej, Szczepa�ski, Szczepa�ski.M@sklep.pl,+48627065776,Kasjer
+18727091,Czes�aw, Wr�bel, Wr�bel.C@sklep.pl,+48788081410,Kasjer
+19380546,Gra�yna, G�rska, G�rska.G@sklep.pl,+48622206154,Kasjer
+20034001,Wanda, Krawczyk, Krawczyk.W@sklep.pl,+48697863210,Kasjer
+20687456,Renata, Urba�ska, Urba�ska.R@sklep.pl,+48645017970,Kasjer
+21340911,Wies�awa, Tomaszewska, Tomaszewska.W@sklep.pl,+48606800176,Kasjer
+21994366,Bo�ena, Baranowska, Baranowska.B@sklep.pl,+48531592007,Kasjer
+22647821,Ewelina, Malinowska, Malinowska.E@sklep.pl,+48539778966,Kasjer
+23301276,Anna, Krajewska, Krajewska.A@sklep.pl,+48608225961,Kasjer
+23954731,Mieczys�aw, Zaj�c, Zaj�c.M@sklep.pl,+48599018391,Kasjer
+24608186,Wies�aw, Przybylski, Przybylski.W@sklep.pl,+48597044131,Kasjer
+25261641,Dorota, Tomaszewska, Tomaszewska.D@sklep.pl,+48652020350,Kasjer
+25915096,Jerzy, Wr�blewski, Wr�blewski.J@sklep.pl,+48511148827,Kasjer
+26568551,Magdalena, Adamczyk, Adamczyk.M@sklep.pl,+48765258983,Kasjer
+27222006,W�adys�aw, Piotrowski, Piotrowski.W@sklep.pl,+48637650841,Kasjer
+27875461,Marek, Wi�niewski, Wi�niewski.M@sklep.pl,+48710040186,Kasjer
+28528916,Stanis�awa, G�owacka, G�owacka.S@sklep.pl,+48508729875,Kasjer
+29182371,Agata, Kubiak, Kubiak.A@sklep.pl,+48758751343,Kasjer
+29835826,Marian, Kowalski, Kowalski.M@sklep.pl,+48717173329,Kasjer
+30489281,Piotr, Szyma�ski, Szyma�ski.P@sklep.pl,+48559395948,Kasjer
+31142736,Stanis�aw, Kowalski, Kowalski.S@sklep.pl,+48522267720,Kasjer
+31796191,Aleksandra, Szulc, Szulc.A@sklep.pl,+48562825422,Kasjer
+32449646,Tomasz, Kucharski, Kucharski.T@sklep.pl,+48700205498,Kasjer
+33103101,Marcin, Mazurek, Mazurek.M@sklep.pl,+48648881426,Kasjer
+33756556,Sebastian, Baranowski, Baranowski.S@sklep.pl,+48610147127,Kasjer
+34410011,Agata, Wysocka, Wysocka.A@sklep.pl,+48591552648,Kasjer
+35063466,Gra�yna, Mazur, Mazur.G@sklep.pl,+48757152149,Kasjer
+35716921,Marcin, Gajewski, Gajewski.M@sklep.pl,+48651949822,Kasjer
+36370376,Krystyna, Sikorska, Sikorska.K@sklep.pl,+48562545521,Kasjer
+37023831,Krzysztof, Kowalski, Kowalski.K@sklep.pl,+48776064715,Kasjer
+37677286,Ma�gorzata, Mazurek, Mazurek.M@sklep.pl,+48776158143,Kasjer
+38330741,Adam, Jasi�ski, Jasi�ski.A@sklep.pl,+48518033210,Kasjer
+38984196,Patrycja, Makowska, Makowska.P@sklep.pl,+48606676727,Kasjer
+39637651,Piotr, Adamczyk, Adamczyk.P@sklep.pl,+48612089281,Kasjer
+40291106,Waldemar, Wieczorek, Wieczorek.W@sklep.pl,+48672108611,Kasjer
+40944561,Edward, Szulc, Szulc.E@sklep.pl,+48645854547,Kasjer
+41598016,Janusz, Andrzejewski, Andrzejewski.J@sklep.pl,+48515006536,Kasjer
+42251471,Edyta, Nowakowska, Nowakowska.E@sklep.pl,+48589349732,Magazynier
+42904926,Joanna, Wo�niak, Wo�niak.J@sklep.pl,+48695073195,Magazynier
+43558381,Mateusz, Michalak, Michalak.M@sklep.pl,+48594657353,Magazynier
+44211836,Marta, Sobczak, Sobczak.M@sklep.pl,+48682066176,Magazynier
+44865291,Waldemar, Makowski, Makowski.W@sklep.pl,+48670304290,Magazynier
+45518746,Marzena, Jab�o�ska, Jab�o�ska.M@sklep.pl,+48740596317,Magazynier
+46172201,Maciej, Sikora, Sikora.M@sklep.pl,+48717893198,Magazynier
+46825656,Monika, Szewczyk, Szewczyk.M@sklep.pl,+48637864894,Magazynier
+47479111,Genowefa, Cie�lak, Cie�lak.G@sklep.pl,+48780371180,Magazynier
+48132566,Edyta, Nowicka, Nowicka.E@sklep.pl,+48640105571,Magazynier
+48786021,Piotr, Malinowski, Malinowski.P@sklep.pl,+48653511548,Magazynier
+49439476,Krzysztof, G�owacki, G�owacki.K@sklep.pl,+48701813931,Magazynier
+50092931,Andrzej, Szewczyk, Szewczyk.A@sklep.pl,+48775979876,Magazynier
+50746386,Mariusz, Grabowski, Grabowski.M@sklep.pl,+48645988061,Magazynier
+51399841,Stefania, Kr�l, Kr�l.S@sklep.pl,+48631656156,Magazynier
+52053296,Wies�aw, Szczepa�ski, Szczepa�ski.W@sklep.pl,+48514377197,Magazynier
+52706751,Ma�gorzata, Wasilewska, Wasilewska.M@sklep.pl,+48729311097,Magazynier
+53360206,J�zef, Szczepa�ski, Szczepa�ski.J@sklep.pl,+48517693746,Magazynier
+54013661,Mariusz, Kowalczyk, Kowalczyk.M@sklep.pl,+48579882175,Magazynier
+54667116,Janina, Koz�owska, Koz�owska.J@sklep.pl,+48723584753,Magazynier
+55320571,Roman, Kwiatkowski, Kwiatkowski.R@sklep.pl,+48692786597,Magazynier
+55974026,Jadwiga, Kami�ska, Kami�ska.J@sklep.pl,+48604305781,Magazynier
+56627481,Agnieszka, Zaj�c, Zaj�c.A@sklep.pl,+48526774391,Magazynier
+57280936,Robert, W�odarczyk, W�odarczyk.R@sklep.pl,+48665250807,Magazynier
+57934391,Henryk, Kowalski, Kowalski.H@sklep.pl,+48593292511,Magazynier
+58587846,Kazimiera, Zalewska, Zalewska.K@sklep.pl,+48791340174,Magazynier
+59241301,Sylwia, Ka�mierczak, Ka�mierczak.S@sklep.pl,+48579262463,Magazynier
+59894756,Dorota, Maciejewska, Maciejewska.D@sklep.pl,+48735236268,Magazynier
+60548211,Jacek, Laskowski, Laskowski.J@sklep.pl,+48798010818,Magazynier
+61201666,Micha�, Sobczak, Sobczak.M@sklep.pl,+48570112182,Magazynier
+61855121,Genowefa, Lis, Lis.G@sklep.pl,+48594024520,Magazynier
+62508576,Miros�aw, Czerwi�ski, Czerwi�ski.M@sklep.pl,+48713829041,Magazynier
+63162031,Agata, Gajewska, Gajewska.A@sklep.pl,+48571253366,Magazynier
+63815486,Zofia, B�k, B�k.Z@sklep.pl,+48563602559,Magazynier
+64468941,Marek, Adamczyk, Adamczyk.M@sklep.pl,+48777963613,Magazynier
+65122396,Agata, Pawlak, Pawlak.A@sklep.pl,+48556002659,Magazynier
+65775851,Adam, Jankowski, Jankowski.A@sklep.pl,+48732402194,Magazynier
+66429306,Mieczys�aw, Adamczyk, Adamczyk.M@sklep.pl,+48501170640,Magazynier
+67082761,Wanda, Czarnecka, Czarnecka.W@sklep.pl,+48798649759,Magazynier
+67736216,Andrzej, Zi�kowski, Zi�kowski.A@sklep.pl,+48677223852,Kierownik dzia�u
+68389671,Jaros�aw, Laskowski, Laskowski.J@sklep.pl,+48666190130,Kierownik dzia�u
+69043126,Iwona, Urba�ska, Urba�ska.I@sklep.pl,+48746119139,Kierownik dzia�u
+69696581,Aneta, Jakubowska, Jakubowska.A@sklep.pl,+48554160872,Kierownik dzia�u
+70350036,Zdzis�aw, Kr�l, Kr�l.Z@sklep.pl,+48640974958,Kierownik dzia�u
+71003491,Maria, Wi�niewska, Wi�niewska.M@sklep.pl,+48662532379,Kierownik dzia�u
+71656946,Grzegorz, Borkowski, Borkowski.G@sklep.pl,+48522822720,Kierownik dzia�u
+72310401,Maria, G�owacka, G�owacka.M@sklep.pl,+48646684027,Kierownik dzia�u
+72963856,Jakub, Pietrzak, Pietrzak.J@sklep.pl,+48647751773,Kierownik magazynu
+73617311,Danuta, Piotrowska, Piotrowska.D@sklep.pl,+48519170119,Kierownik magazynu
+74270766,Sebastian, Chmielewski, Chmielewski.S@sklep.pl,+48759498781,Kierownik magazynu
+74924221,Adam, Andrzejewski, Andrzejewski.A@sklep.pl,+48671013971,Kierownik magazynu

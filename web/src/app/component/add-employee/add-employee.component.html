@@ -1,0 +1,64 @@
+<div fxLayout="row" fxLayoutAlign="center center">
+  <mat-card class="card-container">
+    <div class="form-container">
+      <span class="title-label">Dodaj pracownika</span>
+      <form class="full-width mr-top--10" (ngSubmit)="isFormValid() && create()">
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Identyfikator pracownika" [formControl]="idEmployeeFormControl"
+                 [errorStateMatcher]="matcher" [(ngModel)]="employee.idEmployee">
+          <mat-error *ngIf="idEmployeeFormControl.hasError('required')">
+            Identyfikator jest <strong>wymagany</strong>
+          </mat-error>
+          <mat-error *ngIf="idEmployeeFormControl.hasError('pattern') && !idEmployeeFormControl.hasError('required')">
+            Identyfikator może zawierać tylko cyfry
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Imię pracownika" [formControl]="employeeNameFormControl" [errorStateMatcher]="matcher"
+                 [(ngModel)]="employee.employeeName">
+          <mat-error *ngIf="employeeNameFormControl.hasError('required')">
+            Imię pracownika jest <strong>wymagane</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Nazwisko pracownika" [formControl]="employeeSurnameFormControl" [errorStateMatcher]="matcher"
+                 [(ngModel)]="employee.employeeSurname">
+          <mat-error *ngIf="employeeSurnameFormControl.hasError('required')">
+            Nazwisko pracownika jest <strong>wymagane</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Email" [formControl]="emailFormControl" [errorStateMatcher]="matcher"
+                 [(ngModel)]="employee.email">
+          <mat-error *ngIf="emailFormControl.hasError('email') && !emailFormControl.hasError('required')">
+            Wprowadź poprawny adres email
+          </mat-error>
+          <mat-error *ngIf="emailFormControl.hasError('required')">
+            Email jest <strong>wymagany</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Numer telefonu" [formControl]="telephoneNumberFormControl" [errorStateMatcher]="matcher"
+                 [(ngModel)]="employee.telephoneNumber" maxlength="12">
+          <mat-error *ngIf="telephoneNumberFormControl.hasError('pattern') && !telephoneNumberFormControl.hasError('required')">
+            Wprowadź poprawny format numeru telefonu
+          </mat-error>
+          <mat-error *ngIf="telephoneNumberFormControl.hasError('required')">
+            Telefon jest <strong>wymagany</strong>
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field class="full-width">
+          <input matInput placeholder="Stanowisko" [formControl]="positionFormControl" [errorStateMatcher]="matcher"
+                 [(ngModel)]="employee.position">
+          <mat-error *ngIf="positionFormControl.hasError('required')">
+            Stanowisko jest <strong>wymagane</strong>
+          </mat-error>
+        </mat-form-field>
+        <div fxLayout="row" fxLayoutAlign="end center">
+          <button type="submit" mat-raised-button color="primary">Zatwierdź</button>
+          <button class="cncl-btn" type="button" mat-raised-button color="accent" routerLink="/dashboard">Anuluj</button>
+        </div>
+      </form>
+    </div>
+  </mat-card>
+</div>

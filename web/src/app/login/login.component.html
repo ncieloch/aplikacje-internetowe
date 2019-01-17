@@ -1,0 +1,13 @@
+<div class="login-container">
+  <div class="username-page-container">
+    <form class="example-form mr-top--20" (ngSubmit)="f.form.valid && login()" #f="ngForm">
+      <mat-form-field class="full-width">
+        <input matInput placeholder="Użytkownik" name="username" [(ngModel)]="model.username" #username="ngModel" autocomplete="off">
+      </mat-form-field>
+      <mat-form-field class="full-width">
+        <input type="password" matInput placeholder="Hasło" name="password" [(ngModel)]="model.password" #password="ngModel">
+      </mat-form-field>
+      <button type="submit" mat-button class="pink-clr full-width mr-top--20" >Zaloguj</button>
+    </form>
+  </div>
+</div>

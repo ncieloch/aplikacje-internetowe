@@ -1,0 +1,48 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/.mvn
+/mvnw.cmd
+/mvnw
+*persistence.xml
+/lib
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Angular ###
+/web/dist
+/web/tmp
+/web/out-tsc
+/web/node_modules
+/web/e2e/*.js
+/web/e2e/*.map
+/web/.DS_Store
+/web/Thumbs.db
+/web/.sass-cache
+/web/connect.lock
+/web/coverage
+/web/libpeerconnection.log
+/web/npm-debug.log
+/web/yarn-error.log
+/web/testem.log
+/web/typings

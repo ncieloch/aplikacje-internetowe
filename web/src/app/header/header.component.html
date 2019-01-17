@@ -1,0 +1,8 @@
+<mat-toolbar fxLayout="row" fxLayoutAlign="space-between center" color="primary" class="header">
+  <span>Webapp</span>
+  <div>
+    <span class="logged-label">Zalogowany jako: {{userAccount?.username}}</span>
+    <button mat-button class="pink-clr" (click)="logout()">Wyloguj</button>
+  </div>
+</mat-toolbar>
+<app-side-nav></app-side-nav>

@@ -1,0 +1,42 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav class="side-nav" #drawer mode="side" opened role="navigation">
+    <mat-nav-list>
+
+      <a mat-list-item routerLink="/employees" routerLinkActive="list-item--active"
+         matTooltip="Pracownicy" matTooltipPosition="after">
+        <fa name="users" class="fa-2x"></fa>
+      </a>
+
+      <a mat-list-item routerLink="/add-employee" routerLinkActive="list-item--active"
+         matTooltip="Dodaj pracownika" matTooltipPosition="after">
+        <fa name="user-plus" class="fa-2x"></fa>
+      </a>
+
+      <a mat-list-item routerLink="/stores" routerLinkActive="list-item--active"
+         matTooltip="Placówki" matTooltipPosition="after">
+        <fa name="building" class="fa-2x"></fa>
+      </a>
+
+      <a mat-list-item routerLink="/add-product" routerLinkActive="list-item--active"
+         matTooltip="Dodaj produkt" matTooltipPosition="after">
+        <fa name="cart-plus" class="fa-2x"></fa>
+      </a>
+
+      <a mat-list-item routerLink="/products" routerLinkActive="list-item--active"
+         matTooltip="Produkty" matTooltipPosition="after">
+        <fa name="shopping-cart" class="fa-2x"></fa>
+      </a>
+
+      <a mat-list-item routerLink="/reports" routerLinkActive="list-item--active"
+         matTooltip="Raporty" matTooltipPosition="after">
+        <fa name="clipboard" class="fa-2x"></fa>
+      </a>
+
+    </mat-nav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content-container">
+        <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>
